@@ -1,0 +1,17 @@
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\bin\Debug\net10.0\ControllerStaff.Application.deps.json
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\bin\Debug\net10.0\ControllerStaff.Application.dll
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\bin\Debug\net10.0\ControllerStaff.Application.pdb
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\bin\Debug\net10.0\ControllerStaff.Core.dll
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\bin\Debug\net10.0\ControllerStaff.DataAccess.dll
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\bin\Debug\net10.0\ControllerStaff.DataAccess.pdb
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\bin\Debug\net10.0\ControllerStaff.Core.pdb
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\ControllerStaff.Application.csproj.AssemblyReference.cache
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\ControllerStaff.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\ControllerStaff.Application.AssemblyInfoInputs.cache
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\ControllerStaff.Application.AssemblyInfo.cs
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\ControllerStaff.Application.csproj.CoreCompileInputs.cache
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\Controll.1EDF7CE5.Up2Date
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\ControllerStaff.Application.dll
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\refint\ControllerStaff.Application.dll
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\ControllerStaff.Application.pdb
+C:\Users\мир танков\Desktop\ControllerStaff.API-master\ControllerStaff.API-master\ControllerStaff.Application\obj\Debug\net10.0\ref\ControllerStaff.Application.dll
